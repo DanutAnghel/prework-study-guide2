@@ -1,0 +1,50 @@
+h1{
+    font-size: 100px;
+    text-align: center;
+    color:rgb(68, 68, 208);
+    font-family:papyrus;
+    border:2px solid;
+    padding:20px;
+    background-color: lightgrey;
+  }
+  h2 {
+    text-align: center;
+  }
+  body {
+    padding: 25px;
+  
+  }
+  img{
+    height: 500px;
+  }
+  nav ul {
+      list-style-type: none;
+    text-align: none ;
+      margin: 10%;
+    border: 3px solid;
+      padding: 5;
+      overflow: hidden;
+      background-color: lightgrey;
+      display: table;
+      width: 100%;
+  }
+  nav li {
+      display: table-cell
+  
+  }
+    nav ul li a {
+      display: block;
+      color: black;
+      text-align: center;
+      padding: 10px 10px;
+      text-decoration: none;
+    font-size: 40px;
+  }
+   figcaption{
+     font-size: 10px;
+     font-family: times;
+   }
+   p {
+     font-family: papyrus;
+     color:darkgray;
+   }
